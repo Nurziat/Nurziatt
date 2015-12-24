@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mail.dll
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mail.xml
+C:\Users\User\Desktop\Игра Пары\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Mail.resources
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mail.xml
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Mail.resources
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\user\Desktop\Сабак\программирование\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
